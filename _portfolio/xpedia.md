@@ -1,0 +1,46 @@
+---
+layout: post
+title: Xpedia
+thumbnail-path: "img/xpedia.png"
+short-description: Xpedia is a Saas Wiki Collaboration!
+
+---
+
+{:.center}
+![]({{ site.baseurl }}/users/cheryltroup/destop/img/xpedia.png)
+
+{:.center}
+### Overview
+
+Xpedia is a SaaS application that allows users to create their own wikis.  Wikis are a great way to collaborate on community-sourced content. Whether the wiki is for a hobby or work-related project. The application lets users create their own wikis and share them publicly or privately with other collaborators. Access to privates wikis with upgraded membership.
+
+{:.center}
+### Features
+
+* Users can create a standard account in order to create, edit, and
+  collaborate on public wikis using Markdown syntax; anyone can view public wikis.
+* Users can pay to upgrade their account to Premium in order to view and 
+  create private wikis.
+* Premium users can allow others to view and collaborate on the private 
+  wikis they create.
+* Premium users can downgrade their account back to Standard.
+
+{:.center}
+## Technologies
+
+**Languages, Libraries, and Frameworks:** Ruby on Rails, Bootstrap
+
+**Databases:** SQLite (Test, Development), PostgreSQL (Production)
+
+**Development Tools, Gems and Methodologies:**
+
+* Devise for user authentication
+* SendGrid for email confirmation
+* Pundit for authorization
+* Stripe for payment
+
+
+
+## Conclusion
+
+Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
