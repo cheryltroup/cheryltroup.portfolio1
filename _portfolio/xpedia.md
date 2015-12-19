@@ -7,7 +7,7 @@ short-description: Xpedia is a Saas Wiki Collaboration!
 ---
 
 {:.center}
-![]({{ site.baseurl }}/users/cheryltroup/destop/img/xpedia.png)
+![]({{ site.baseurl }}/img/xpedia.png)
 
 {:.center}
 ### Overview

@@ -7,7 +7,7 @@ short-description: Bloccit is your personal Reddit!
 ---
 
 {:.center}
-![]({{ site.baseurl }}img/bloccit.png)
+![]({{ site.baseurl }}/img/bloccit.png)
 
 {:.center}
 ## Overview

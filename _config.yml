@@ -6,7 +6,7 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Cheryl Troup 
-  description: "Portfolio" # used by search engines
+  description: "Cheryl Troup Portfolio - Rails Web Developer" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -14,7 +14,7 @@ theme:
      <p>I'm a developer specializing in Rails on Ruby!</p>
   header_text_feature_image: 
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   <h4>Cheryl Troup - 2015 </h4>
 
   # Icons
   rss: false
@@ -53,7 +53,7 @@ theme:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
+  google_fonts: "Josefin Slab: 400,600,700"
 
 # PAGINATION
 #paginate: 100
