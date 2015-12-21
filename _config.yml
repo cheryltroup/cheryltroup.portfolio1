@@ -12,7 +12,7 @@ theme:
   header_text: >
      <h1>Web Developer</h1>
      <p>I'm a developer specializing in Rails on Ruby!</p>
-  header_text_feature_image: 
+  header_text_feature_image: img.palmtree.jpg
   footer_text: >
    <h4>Cheryl Troup - 2015 </h4>
 

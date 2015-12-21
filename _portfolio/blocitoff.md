@@ -34,7 +34,3 @@ Blocitoff allows users to create self-destructing to-do lists. Items are automat
 * Devise for user authentication
 * Sendgrid for email confirmation
 * Heroku scheduler for rake automation
-
-## Results
-
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra 

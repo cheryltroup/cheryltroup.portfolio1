@@ -36,7 +36,3 @@ Bloccit is a Reddit replica that lets users post, vote on, share and save links 
 * Devise for user authentication
 * SendGrid for email notifications
 * Pundit for authorization
-
-## Conclusion
-
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra 
