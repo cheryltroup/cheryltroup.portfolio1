@@ -1,0 +1,74 @@
+# SITE CONFIGURATION
+baseurl: "/portfolio-kami" # the subpath of your site, e.g. /blog/
+url: "http://www.domain.com" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: Cheryl Troup 
+  description: "Cheryl Troup Portfolio - Rails Web Developer" # used by search engines
+
+  # Header and footer text
+  header_text: >
+     <h1>Web Developer</h1>
+     <p>I'm a developer specializing in Rails on Ruby!</p>
+  header_text_feature_image: img.palmtree.jpg
+  footer_text: >
+   <h4>Cheryl Troup - 2015 </h4>
+
+  # Icons
+  rss: false
+  email_address: cheryltroup@gmail.com
+  behance:
+  bitbucket:
+  dribbble: 
+  facebook: 
+  flickr:
+  github: cheryltroup.github.com
+  google_plus:
+  instagram: 
+  linkedin:  https://www.linkedin.com/in/cheryl-troup-25075b9
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: 
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: "UA-71600604-1"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Read more &raquo;"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Josefin Slab: 400,600,700"
+
+# PAGINATION
+#paginate: 100
+#paginate_path: "blog/page:num"
+
+# COLLECTIONS
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+# BUILD SETTINGS
+markdown: kramdown
+
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
