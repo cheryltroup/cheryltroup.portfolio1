@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-kami" # the subpath of your site, e.g. /blog/
-url: "http://www.domain.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cheryltroup.com" 
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -12,7 +12,8 @@ theme:
   header_text: >
      <h1>Web Developer</h1>
      <p>I'm a developer specializing in Rails on Ruby!</p>
-  header_text_feature_image: img.palmtree.jpg
+
+  header_text_feature_image: 
   footer_text: >
    <h4>Cheryl Troup - 2015 </h4>
 
