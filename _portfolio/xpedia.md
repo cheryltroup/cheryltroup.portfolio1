@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Xpedia
-thumbnail-path: "img/xpedia.png"
+thumbnail-path: "img/xpediaborder.png"
 short-description: Xpedia is a Saas Wiki Collaboration!
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/xpedia.png)
+![]({{ site.baseurl }}/img/xpediaborder.png)
 
 {:.center}
 ### Overview
