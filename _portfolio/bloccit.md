@@ -36,3 +36,4 @@ Bloccit is a Reddit replica that lets users post, vote on, share and save links 
 * Devise for user authentication
 * SendGrid for email notifications
 * Pundit for authorization
+* NewRelic for application monitoring  
