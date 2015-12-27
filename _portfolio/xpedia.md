@@ -10,7 +10,7 @@ short-description: Xpedia is a Saas Collaboration Wiki Application!
 ![]({{ site.baseurl }}/img/xpediaborder.png)
 
 {:.center}
-<a href="https://cheryltroup-xpedia.herokuapp.com/" class="button">Heroku Demo</a>
+<a href="https://cheryltroup-xpedia.herokuapp.com/" class="button">Heroku </a>
 <a href="https://github.com/cheryltroup/xpedia/" class="button"> Github <i class="fa fa-fw fa-github"></i></a>
 
 {:.center}

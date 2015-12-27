@@ -10,7 +10,7 @@ short-description: Blocitoff is a self-destructing to-do list!
 ![]({{ site.baseurl }}/img/blocitoff.png)
 
 {:.center}
-<a href="https://cheryltroup-blocitoff.herokuapp.com/" class="button">Heroku Demo</a>
+<a href="https://cheryltroup-blocitoff.herokuapp.com/" class="button">Heroku </a>
 <a href="https://github.com/cheryltroup/bloccoff/" class="button">Github <i class="fa fa-fw fa-github"></i></a>
 
 {:.center}
