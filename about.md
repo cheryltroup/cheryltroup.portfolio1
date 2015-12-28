@@ -8,4 +8,3 @@ feature-img: "img/me.png"
 ![]({{ site.baseurl }}/img/me.png)
 
  I am passionate about using technology to help people. I love the challenge of building something that is helpful, or fun for people. I enjoy making code come to life! I am available for new opportunites as a Web Developer.
-
