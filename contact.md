@@ -8,7 +8,7 @@ feature-img: "img/me.png"
 {:.center}
 ![]({{ site.baseurl }}/img/me.png)
 
-You can fill out the form to contact me.
+You can fill out the form  below to contact me.
 
 <form action="https://getsimpleform.com/messages?form_api_token=370b83f77b3f665a47eb2596cf606d3b" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
