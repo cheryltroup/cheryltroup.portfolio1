@@ -10,6 +10,10 @@ short-description: Blocitoff is a self-destructing to-do list!
 ![]({{ site.baseurl }}/img/blocitoff.png)
 
 {:.center}
+<a href="https://cheryltroup-blocitoff.herokuapp.com/" class="button">Heroku </a>
+<a href="https://github.com/cheryltroup/bloccoff/" class="button">Github <i class="fa fa-fw fa-github"></i></a>
+
+{:.center}
 ## Overview
 
 Blocitoff allows users to create self-destructing to-do lists. Items are automatically deleted after seven days. The hypothesis is that if the to-do items is not important enough to be completed after seven days, it doesn’t belong on your to-do list. 

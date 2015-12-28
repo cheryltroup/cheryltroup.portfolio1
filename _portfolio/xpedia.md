@@ -2,7 +2,7 @@
 layout: post
 title: Xpedia
 thumbnail-path: "img/xpediaborder.png"
-short-description: Xpedia is a Saas Wiki Collaboration!
+short-description: Xpedia is a Saas Collaboration Wiki Application!
 
 ---
 
@@ -10,9 +10,13 @@ short-description: Xpedia is a Saas Wiki Collaboration!
 ![]({{ site.baseurl }}/img/xpediaborder.png)
 
 {:.center}
+<a href="https://cheryltroup-xpedia.herokuapp.com/" class="button">Heroku </a>
+<a href="https://github.com/cheryltroup/xpedia/" class="button"> Github <i class="fa fa-fw fa-github"></i></a>
+
+{:.center}
 ### Overview
 
-Xpedia is a SaaS application that allows users to create their own wikis.  Wikis are a great way to collaborate on community-sourced content. Whether the wiki is for a hobby or work-related project. The application lets users create their own wikis and share them publicly or privately with other collaborators. Access to privates wikis with upgraded membership.
+Xpedia is a SaaS application that allows users to create their own wikis. Wikis are a great way to collaborate on community-sourced content. Whether the wiki is for a hobby or work-related project. The application lets users create their own wikis and share them publicly or privately with other collaborators. Access to privates wikis with upgraded membership.
 
 {:.center}
 ### Features
