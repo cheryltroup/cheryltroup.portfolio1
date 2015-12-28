@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Xpedia
-thumbnail-path: "img/xpediaborder.png"
+thumbnail-path: "img/xpedia.png"
 short-description: Xpedia is a Saas Collaboration Wiki Application!
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/xpediaborder.png)
+![]({{ site.baseurl }}/img/xpedia.png)
 
 {:.center}
 <a href="https://cheryltroup-xpedia.herokuapp.com/" class="button">Heroku </a>
